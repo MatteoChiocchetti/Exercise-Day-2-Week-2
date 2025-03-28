@@ -3,9 +3,9 @@
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-// let numb1 = 4
-// let numb2 = 8
-// console.log()
+let numb1 = 4;
+let numb2 = 8;
+console.log();
 
 /* ESERCIZIO 2
   Scrivi un algoritmo che mostri "not equal" in console se un numero intero fornito è diverso da 5.
